@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="event_type">
+
+        <item>Movie</item>
+        <item>Concert</item>
+        <item>Conference</item>
+        <item>Festival</item>
+        <item>Wedding</item>
+        <item>Party</item>
+
+    </string-array>
+
+</resources>
+
+

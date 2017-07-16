@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Wyat</string>
+
+
+    //sign up and login strings
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_last_name">Last Name</string>
+    <string name="action_sign_up">sign up</string>
+    <string name="prompt_password_confirmation">Confirm Password</string>
+    <string name="action_login">Log In</string>
+    <string name="create_account">Dont have an account? Sign Up.</string>
+
+
+    //event posting strings
+    <string name="prompt_event_name">Title</string>
+    <string name="prompt_event_venue">Venue</string>
+    <string name="prompt_event_date_time">Time</string>
+    <string name="prompt_upload">Upload</string>
+    <string name="prompt_date_and_time">Pick date and time</string>
+    <string name="prompt_event_description">Description</string>
+    <string name="prompt_event_pic">Event Picture</string>
+    <string name="prompt_event_type">Event Type</string>
+    <string name="prompt_free">Is the event free?</string>
+    <string name="prompt_manage_tickets">Would you like to sell tickets using Wyat?</string>
+    <string name="prompt_ticket_price">Ticket Price</string>
+    <string name="prompt_age_restriction">Is there an age restriction?</string>
+    <string name="prompt_invite_only">Is the event invite only?</string>
+    <string name="post_event">Post Event</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maybe">May be</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="finish">Finish</string>
+//menu strings
+    <string name="details">Details</string>
+    <string name="news_feed">News Feed</string>
+    <string name="gallery">Gallery</string>
+
+</resources>
